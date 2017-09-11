@@ -1,0 +1,54 @@
+body {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+
+#bg {
+    /* The image used */
+    background-image: url("images/waves.gif");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+p {
+    color: aqua;
+    font-family: 'Orbitron', sans-serif;
+    
+}
+
+
+#catStyle {
+   width: 200px;
+   height: 150px;
+}
+
+img {
+   width: 400px;
+   height: 250px;
+   border: 10px;
+   padding: 20px;
+   margin: 10px;
+}
+
+.special {
+    font-size: 200%;
+}
+
+#more {
+    padding: 10px;
+    color: azure;    
+}
