@@ -23,5 +23,5 @@
 
 ## Homework
 
-* Finish your class website design and upload it and email me. Due by beginning of class next week!
+* Finish your class website design, styled nicely and upload it and email me. Due by beginning of class next week!
 * PS: I am giving a talk Thursday evening for Praxis VIII: Bodies, Technology, and Space. Info [here](https://usc-praxis.com/).
