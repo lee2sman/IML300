@@ -1,10 +1,12 @@
 # Students
 
+* [Alex](http://storm.usc.edu/~kim657/index.html)
 * [Andrea](http://storm.usc.edu/~andreadw/iml300/)
 * [Bernice](http://storm.usc.edu/~bdanetar/iml300/
 )
-* [Chandler](http://storm.usc.edu/~zausner)
+* [Chandler](http://storm.usc.edu/~zausner/iml300/index.html)
 * [Cher](http://storm.usc.edu/~ccarlton/)
+* [Chloe](http://storm.usc.edu/~yanyuxu/)
 * [Daniel](http://storm.usc.edu/~gilesd)
 * [Elisa](http://storm.usc.edu/~apra/elisa/)
 * [Elisa](http://storm.usc.edu/~ealfonso/assignment1/)
