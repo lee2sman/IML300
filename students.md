@@ -10,6 +10,7 @@
 [Elisa](http://storm.usc.edu/~ealfonso/assignment1/)
 [Jeli](http://storm.usc.edu/~jli856/iml300/index.html)
 [Mary](http://storm.usc.edu/~mejuarez/)
+[Nico](http://storm.usc.edu/~npizzati/iml300/)
 [Hayley](http://storm.usc.edu/~hpike/)
 [Sabrina](http://storm.usc.edu/~stamnes/)
 [Susan](http://storm.usc.edu/~lin203/)
