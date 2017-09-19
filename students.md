@@ -10,11 +10,13 @@
 * [Elisa](http://storm.usc.edu/~apra/elisa/)
 * [Elisa](http://storm.usc.edu/~ealfonso/assignment1/)
 * [Emma](http://storm.usc.edu/~wang439/iml300/)
+* [Hayley](http://storm.usc.edu/~hpike/)
 * [Jacquie](http://storm.usc.edu/~jynavarr/IML300/)
 * [Jeli](http://storm.usc.edu/~jli856/iml300/index.html)
 * [Mary](http://storm.usc.edu/~mejuarez/)
 * [Nico](http://storm.usc.edu/~npizzati/iml300/)
-* [Hayley](http://storm.usc.edu/~hpike/)
+* Oliver
+* Paul
 * [Sabrina](http://storm.usc.edu/~stamnes/)
 * [Susan](http://storm.usc.edu/~lin203/)
 * [Woo](http://storm.usc.edu/~woosungj/class2/mainpage/)
