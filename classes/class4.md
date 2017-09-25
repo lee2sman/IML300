@@ -8,7 +8,7 @@
 3. Introduce [Project 2](../projects/project2.md)
 	* [Internet Yama-ichi](https://www.youtube.com/watch?v=mjWJsE7B1cs)
 	* Branching Narrative (e.g. "Choose Your Own Adventure")
-	
+
 
 # Branching Narrative
 * [My Boyfriend Came Back From The War](http://rhizome.org/art/artbase/artwork/my-boyfriend-came-back-from-the-war/)
@@ -21,6 +21,7 @@
 
 
 # Homework
+* Review [Learn Layout](http://learnlayout.com)
 * Read [Power To The People: The Text Adventures of Twine](https://www.gamespot.com/articles/power-to-the-people-the-text-adventures-of-twine/1100-6402665/) or [Twine: The Videogame Technology For all](http://www.nytimes.com/2014/11/23/magazine/twine-the-video-game-technology-for-all.html)
 * Review [CSS animations](https://www.w3schools.com/css/css3_animations.asp) tutorials
 * Read [CSS images review](https://www.w3schools.com/css/css3_images.asp)
@@ -32,6 +33,3 @@
 * [CSS Examples](https://www.w3schools.com/css/css_examples.asp)
 * [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 
-
-	
-	
