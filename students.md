@@ -7,7 +7,7 @@
 * [Cher](http://storm.usc.edu/~ccarlton/)
 * [Chloe](http://storm.usc.edu/~yanyuxu/)
 * [Daniel](http://storm.usc.edu/~gilesd)
-* [Elisa](http://storm.usc.edu/~apra/elisa/)
+* [Elisa](http://storm.usc.edu/~ealfonso/iml300/)
 * [Elisa](http://storm.usc.edu/~ealfonso/assignment1/)
 * [Emma](http://storm.usc.edu/~wang439/iml300/)
 * [Hayley](http://storm.usc.edu/~hpike/)
