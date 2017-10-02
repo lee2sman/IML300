@@ -10,7 +10,7 @@
 
 
 # Branching Narrative
-* [My Boyfriend Came Back From The War](http://rhizome.org/art/artbase/artwork/my-boyfriend-came-back-from-the-war/)
+* Olia Lialina - [My Boyfriend Came Back From The War](http://rhizome.org/art/artbase/artwork/my-boyfriend-came-back-from-the-war/)
 * Michael Samyn - [LOVE](https://anthology.rhizome.org/love)
 * [Jodi](jodi.org)
 	* and [wwwwwwwwww.jodi](http://wwwwwwwww.jodi.org/)
@@ -18,7 +18,6 @@
 * [Kenneth Hung](http://www.tinkin.com/portfolio-item/1111111111111111-dot-com/)
 * Superbad - [info]("https://en.wikipedia.org/wiki/Superbad_(website)"), [site](http://superbad.com)
 * [The Immoral Ms. Conduct](https://www.youtube.com/watch?v=s0bVwnGGWwo) by Hanski
-* 
 * Rhizome [Artbase](http://rhizome.org/art/artbase)
 
 # Homework
