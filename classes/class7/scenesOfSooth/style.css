@@ -1,0 +1,29 @@
+body {
+   font-family: 'Quicksand', sans-serif;
+   background: black;
+   background-image: url("assets/bg.png");
+}
+
+img {
+    position: absolute;
+}
+
+p {
+    position: relative;
+    color: #d1d1e0;
+}
+
+#myButton {
+   position: absolute;
+   font-family: fantasy; 
+   font-size: 200%;
+   background: antiquewhite;
+   margin: 10;
+   padding: .2em;
+   border: blue 2px solid;
+   border-radius: 25px;
+}
+
+#myButton:hover {
+   cursor: pointer;
+}
