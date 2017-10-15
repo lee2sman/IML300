@@ -1,15 +1,25 @@
 <!DOCTYPE html>
 <html>
-    <head>A Web Page</head>
+    <head><title>A Web Page</title></head>
+    <style>
+        button {
+           color: aqua;
+           background-color: yellow;
+            
+        } 
+        
+    </style>
 <body>
 
 <h1>A Web Page</h1>
 <p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
+    
+    
+<button type="button" onclick="turnOn()">Try it</button>
 
 <script>
     
-function myFunction() {
+function turnOn() {
    document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
 </script>
