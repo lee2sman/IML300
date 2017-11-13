@@ -15,6 +15,9 @@
 	* responsive text
 	* media queries
 
+## Continue working on Final project
+* [Final Project info](../../projects/final_project.md)
+
 # Resources
 * [Designing For The Best Experience For All Users](https://www.w3schools.com/Css/css_rwd_intro.asp)
 * [Creating your own responsive design with simple CSS](https://www.w3schools.com/Css/css_responsive_intro.asp)
