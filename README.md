@@ -165,7 +165,7 @@ Note I may make changes to the content of the class during the semester to impro
 #### Week 14: (11/20) Final Project classwork  
 * WIP Review  
 
-#### Week 15: (12/1) Final Project  
+#### Week 15: (11/27) Final Project  
 * Group 1 presentations
 
 #### Finals Week, Date: **Wednesday December 6, 11am-1pm**
