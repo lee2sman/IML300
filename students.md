@@ -20,3 +20,20 @@
 * [Sabrina](http://storm.usc.edu/~stamnes/)
 * [Susan](http://storm.usc.edu/~lin203/)
 * [Woo](http://storm.usc.edu/~woosungj/class2/mainpage/)
+
+# Final Presentations
+# Group 1 presentations - November 27
+
+* Susan and Elisa Apra
+* Hayley and Chandler 
+* Mary and Jeli
+* Oliver and Sabrina
+* Emma and Paul
+
+# Group 2 presentations - December 6
+
+* Woo and Jacquie
+* Cher and Andrea
+* Nico and Alex
+* Chloe and Elisa Alfonso
+* Dan and Bernice
