@@ -35,5 +35,5 @@
 * [Woo and Jacquie](http://storm.usc.edu/~woosungj/assignments/museumcoding/Partner/index.html)
 * [Cher and Andrea](http://storm.usc.edu/~andreadw/iml300/ArtInstituteChicago/index.html)
 * [Nico and Alex](http://storm.usc.edu/~npizzati/iml300/brthr_proj/brthr_hompepage.html)
-* [Chloe and Elisa Alfonso](http://storm.usc.edu/~yanyuxu/Chloe/index.html)
+* [Chloe and Elisa Alfonso](http://storm.usc.edu/~yanyuxu/Theboard/index.html)
 * [Dan and Bernice](http://storm.usc.edu/~bdanetar/PROJECT3/)
