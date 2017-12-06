@@ -1,4 +1,4 @@
-Intro to GitHub
+Intro to GitHub - for IML300
 ===============
 # What Is Git? What is GitHub?
 
